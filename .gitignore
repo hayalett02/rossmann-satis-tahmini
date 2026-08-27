@@ -1,0 +1,21 @@
+# Büyük / gereksiz dosyalar — panoya lazım değil
+*.ipynb
+*.pdf
+*.docx
+*.md
+train.csv
+test.csv
+weather.csv
+googletrend.csv
+submission.csv
+sample_submission.csv
+test_final.parquet
+*_yedek.ipynb
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+analyze_pdf.py
+md_to_*.py
+medium_makale_to_docx.py
+prepare_val_predictions.py
